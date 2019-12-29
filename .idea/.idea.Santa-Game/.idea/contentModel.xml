@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\rjhus\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\rjhus\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Santa-Game.-759849203.00" t="ExcludeRecursive" />
+    <e p="C:\Users\rjhus\Dev\games\Santa-Game" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Joystick Pack" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Base" t="Include">
+              <e p="Joystick.cs" t="Include" />
+            </e>
+            <e p="Joysticks" t="Include">
+              <e p="FixedJoystick.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Buttons" t="Include">
+            <e p="Levels Buttons" t="Include">
+              <e p="LevelLoad.cs" t="Include" />
+            </e>
+            <e p="Nav Buttons" t="Include">
+              <e p="MainMenuButton.cs" t="Include" />
+              <e p="ProfileButton.cs" t="Include" />
+              <e p="SettingsButton.cs" t="Include" />
+              <e p="WorldsMenuButton.cs" t="Include" />
+            </e>
+            <e p="PauseMenuButtons.cs" t="Include" />
+            <e p="World Buttons" t="Include">
+              <e p="World1.cs" t="Include" />
+              <e p="World2.cs" t="Include" />
+              <e p="World3.cs" t="Include" />
+              <e p="World4.cs" t="Include" />
+              <e p="World5.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Classes" t="Include">
+            <e p="Level.cs" t="Include" />
+            <e p="RandNum.cs" t="Include" />
+            <e p="ScoreKeeper.cs" t="Include" />
+          </e>
+          <e p="General" t="Include">
+            <e p="LevelEnums.cs" t="Include" />
+            <e p="LoadingCanvas.cs" t="Include" />
+            <e p="Master.cs" t="Include" />
+            <e p="ProgressTracker.cs" t="Include" />
+            <e p="SceneLoader.cs" t="Include" />
+            <e p="ScoreBoard.cs" t="Include" />
+          </e>
+          <e p="Menus" t="Include">
+            <e p="ControlCanvas" t="Include">
+              <e p="PauseButton.cs" t="Include" />
+            </e>
+            <e p="PauseMenu" t="Include">
+              <e p="ExitButton.cs" t="Include" />
+              <e p="ResumeButton.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Player" t="Include">
+            <e p="JumpButton.cs" t="Include" />
+            <e p="PersistentPlayerData.cs" t="Include" />
+            <e p="PlayerControls.cs" t="Include" />
+            <e p="PlayerDao.cs" t="Include" />
+            <e p="RuntimePlayerData.cs" t="Include" />
+            <e p="ShootButton.cs" t="Include" />
+          </e>
+          <e p="Prefabs" t="Include">
+            <e p="LevelObjects.cs" t="Include" />
+            <e p="Present.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Santa-Game.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
